@@ -10,6 +10,8 @@ I'm a Statistics & Computer Science undergraduate at the University of Illinois 
 - **[Sandia Data Challenge](https://github.com/zichenz7/Sandia-Data-Challenge)** — Statistical modeling of manufacturing scrap risk in R, using a binomial GAMM with spatial and plate-level effects. Our team placed in the top 10 of 40.
 - **[Smart Calendar Assistant](https://github.com/zichenz7/Smart_Calendar_Assistant)** — A Google Calendar add-on for task organization, priority ranking, and rule-based break suggestions. I led a 7-member ACM SIGCHI team, focusing on feature design, task allocation, and feature demonstrations. [Technical overview](https://github.com/zichenz7/Smart_Calendar_Assistant/blob/main/ENGINEERING.md)
 
+- **[Table Tennis Equipment Recommender](https://github.com/zichenz7/Table-tennis-recommendation-system)** — A Python decision-support tool for blades and rubbers, using user-weighted TOPSIS, explicit cost criteria, and radar charts. Includes reproducible offline examples and algorithm regression tests. [Method and validation](https://github.com/zichenz7/Table-tennis-recommendation-system/blob/main/METHOD.md)
+
 ## Tools I use
 
 - **Apps and backend:** Swift, SwiftUI, JavaScript/TypeScript, React, Node.js
